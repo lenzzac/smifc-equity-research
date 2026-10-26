@@ -7,7 +7,7 @@ Two firm-analysis reports written for the **Student Managed Investment Fund Comp
 | [Micron Technology (MU)](micron/MU_SMIFC_Chicago_2026_Report.pdf) | SMIFC Chicago, Sep 2026 | **SELL / Underweight** | $548 (range $500–$570) | $924.03 (14 Sep 2026), −41% implied |
 | [Oracle (ORCL)](oracle/ORCL_SMIFC_South_2026_Report.pdf) | SMIFC South, Mar 2026 | **BUY** | $166.08 (range $122–$228) | $155.52 (19 Mar 2026), +6.8% implied |
 
-**My role:** I was team lead for the quantitative sections (§3 Stockholder Performance, §4 Financial Strengths & Weaknesses, §5 Valuation & Recommendation) on both reports. I built every Excel model and Python notebook in this repository and wrote the preliminary Section 5 valuation analysis that was condensed into each final report. Sections 1–2 were written by teammates.
+**My role:** I led the quantitative sections (§3 Stockholder Performance, §4 Financial Strengths & Weaknesses, §5 Valuation & Recommendation) and modeling on both reports, and wrote the preliminary Section 5 valuation analysis that was condensed into each final report. Sections 1–2 were written by teammates.
 
 ---
 
